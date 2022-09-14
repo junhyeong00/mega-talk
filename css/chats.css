@@ -1,0 +1,39 @@
+.chat a {
+    display: flex;
+
+    gap: .5em;
+
+    padding: 3vw 2.5vw;
+}
+
+.chat p {
+    display: block;
+
+    border-radius: .7em;
+
+    padding: .5em 0;
+
+    width: 68vw;
+
+    color: rgb(110, 109, 109);
+    background-color: white;
+}
+
+.chat img {
+    height: 10vw;
+    width: 10vw;
+}
+
+.time {
+    display: block;
+
+    align-self: center;
+
+    width: 22vw;
+    color: rgb(110, 109, 109);
+}
+
+h2 {
+    font-size: 3.5vw;
+    font-weight: 500;
+}

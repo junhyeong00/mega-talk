@@ -1,0 +1,64 @@
+#me {
+    padding: 0 4vw;
+    height: 20vw;
+    width: 100vw;
+}
+
+#me a {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    height: 20vw;
+    width: 92vw;
+    border-bottom: 1px solid #DDD;
+
+    font-size: 4.5vw;
+    font-weight: 600;
+}
+
+#me img {
+    height: 17vw;
+    width: 17vw;
+
+    border-radius: 1.5em;
+}
+
+h2 {
+    font-size: 3vw;
+    font-weight: 400;
+    color: rgb(110, 109, 109);
+}
+
+.title {
+    display: flex;
+
+    justify-content: space-between;
+    padding: 1em 1.5em;
+}
+
+.title img {
+    height: 2vw;
+    width: 3vw;
+}
+
+#friends ul {
+    padding: 1em 1.5em;
+}
+
+#friends a {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    height: 10vw;
+    width: 92vw;
+
+    margin-bottom: 1.5vw;
+
+    font-size: 4vw;
+    font-weight: 400;
+}
+
+#friends ul img {
+    height: 10vw;
+    width: 10vw;
+}
